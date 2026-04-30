@@ -128,6 +128,4 @@ AWS EKS cluster via Terraform
 Monitoring + dashboards
 Makefile automation
 Production-style project structure
-## 🏗️ Architecture Diagram
 
-Architecture.png.png
